@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeidas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## :wrench: TECH STACK
+## TECH STACK
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,6 +22,6 @@
  
 <div><br/>
   <a href = "mailto:samuelmk33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-almeida-483726202" target="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" width="50px" height="50px"</a> 
+  <a href="https://www.linkedin.com/in/samuel-almeida-483726202" target="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" width="30px" height="30px" target="_blank"></a> 
 </div>
   
