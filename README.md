@@ -1,9 +1,5 @@
-## Olá! Eu sou o Samuel Almeida S.
-
-- 🔭 Não estou trabalhando no momento.
-- 🌱 Estou estudando JavaScript e React.
-- 📫 Contate-me no E-mail:samuelmk33@gmail.com
-- 😄 Pronouns: ele/dele
+## Sobre mim
+<p>Olá, me chamo Samuel! Sou um entusiasta na programação, pretendo conquistar um phD em Ciêcia da Computação e com minhas habilidades evoluindo a cada dia que passa, espero mudar o mundo à minha volta atravéz da tecnologia.</p>
 
 
 <div align="center">
