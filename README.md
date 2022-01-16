@@ -22,7 +22,6 @@
  
 <div><br/>
   <a href = "mailto:samuelmk33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-almeida-483726202" target="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" LinkedIn](https://www.linkedin.com/)
-&nbsp;</a> 
+  <a href="https://www.linkedin.com/in/samuel-almeida-483726202" target="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" width="50px" height="50px"</a> 
 </div>
   
