@@ -1,7 +1,7 @@
 ## Sobre mim
 
 <div>
-  <p>Olá, me chamo Samuel! Sou um entusiasta na programação, pretendo conquistar um phD em Ciêcia da Computação e com minhas habilidades evoluindo a cada dia que passa, espero mudar o mundo à minha volta atravéz da tecnologia.</p>
+  <p>Olá, me chamo Samuel! Sou um entusiasta na programação, e com minhas habilidades evoluindo a cada dia que passa, espero mudar o mundo à minha volta atravéz da tecnologia.</p>
   <img src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" width="300px" height="300px" align="right">
 </div>
 
