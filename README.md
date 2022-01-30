@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/samuelalmeidas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeidas&layout=compact&langs_count=7&theme=white"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeidas&hide=html&layout=compact=true&theme=default"/>
 </div>
 
 ## Tecnologias
