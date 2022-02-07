@@ -5,8 +5,8 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/samuelalmeidas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeidas&hide=html&layout=compact=true&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelalmeidas&anuraghazra&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelalmeidas&hide=html&layout=compact=true&theme=radical"/>
 </div>
 
 ## Tecnologias
