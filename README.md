@@ -13,7 +13,8 @@
  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 </span>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SamuelAlmeidaS&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=radical">
 
 ## Contato
 <a href="https://www.linkedin.com/in/samuel-almeida-60071124b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
