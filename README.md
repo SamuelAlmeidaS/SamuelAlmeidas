@@ -1,2 +1,3 @@
 # :wave: Olá, Me chamo Samuel de Almeida.
-:seedling: Estou estudando React.
+  * :telescope: Sou apaixonado por tecnologia e desfios.<br/>
+* :seedling: Estou estudando React.
