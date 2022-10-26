@@ -14,3 +14,9 @@
  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 </span>
 
+
+## Contato
+<a href="https://www.linkedin.com/in/samuel-almeida-60071124b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<img src="https://activity-graph.herokuapp.com/graph?username={SamuelAlmeidaS}&theme=minimal">
+
