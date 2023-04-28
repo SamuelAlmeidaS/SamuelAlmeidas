@@ -1,6 +1,6 @@
 # :wave: Olá, Me chamo Samuel de Almeida.
   * :telescope: Sou apaixonado por tecnologia e desafios.<br/>
-  * :seedling: Estou estudando Javascript.
+  * :seedling: Estou estudando a Stack Javascript.
 
 ## Tech
 
