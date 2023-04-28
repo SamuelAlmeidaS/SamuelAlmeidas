@@ -2,7 +2,7 @@
   * :telescope: Sou apaixonado por tecnologia e desafios.<br/>
   * :seedling: Estou estudando a Stack Javascript.
 
-## Tech
+## :wrench:Tech
 
 <span>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html" title="html">
