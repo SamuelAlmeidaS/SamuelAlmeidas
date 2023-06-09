@@ -17,7 +17,9 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </span>
 
-
+<div>
+ <img src="https://www.codewars.com/users/SamuelAlmeidaS/badges/large" alt="CodeWars">
+</div>
 
 ----
 <img src="https://github-readme-stats.vercel.app/api?username=SamuelAlmeidaS&show_icons=true&theme=radical">
