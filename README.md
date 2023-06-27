@@ -20,6 +20,8 @@
 ----
 <img src="https://github-readme-stats.vercel.app/api?username=SamuelAlmeidaS&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlmeidaS&layout=radical">
+
+
 ## Contato
 <a href="https://www.linkedin.com/in/samuel-almeida-60071124b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
