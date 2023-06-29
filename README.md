@@ -1,11 +1,3 @@
-# :wave: Olá, Me chamo Samuel de Almeida.
-
-## About me
-  * :telescope: Sou apaixonado por tecnologia e desafios.<br/>
-  * :seedling: Estou estudando a Stack Javascript.
-
-## :wrench:Tech & Tools
-
 <span>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html" title="html">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" title="css">
