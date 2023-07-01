@@ -10,8 +10,8 @@
 </span>
 
 ----
-<sapn style="display:inline"><img src="https://github-readme-stats.vercel.app/api?username=SamuelAlmeidaS&show_icons=true&theme="></sapn>
-<span ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlmeidaS"></sapn>
+<sapn style="display:inline;"><img src="https://github-readme-stats.vercel.app/api?username=SamuelAlmeidaS&show_icons=true&theme="></sapn>
+<span ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAlmeidaS&layout=compact"></sapn>
 
 
 ## Contato
